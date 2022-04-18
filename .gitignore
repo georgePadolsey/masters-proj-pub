@@ -1,0 +1,13 @@
+.DS_Store
+*.pyc
+
+#latex
+*.synctex.gz
+*.fls
+*.bcf
+*.bbl
+*.blg
+*.fdb_latexmk
+~*.xlsx
+__latexindent_temp.tex
+*.run.xml

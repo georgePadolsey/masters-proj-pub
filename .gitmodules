@@ -1,0 +1,6 @@
+[submodule "lowtran"]
+	path = lowtran
+	url = https://github.com/georgePadolsey/lowtran.git
+[submodule "clowtran"]
+	path = clowtran
+	url = https://github.com/georgePadolsey/clowtran
